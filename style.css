@@ -1,0 +1,29 @@
+﻿body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9fafb;
+  margin: 0;
+}
+
+header {
+  background-color: #4F46E5;
+  color: white;
+  padding: 1rem;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+}
+
+input {
+  padding: 0.5rem;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.card {
+  background: white;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
